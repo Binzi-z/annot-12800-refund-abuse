@@ -1,0 +1,10 @@
+{
+  "rule_version": "1.0.0",
+  "note": "Tune rule parameters without a code release. Load via: python engine.py <events> <out> --rules rules.example.json",
+  "params": {
+    "multi_refund_min_count": 2,
+    "multi_refund_over_ratio": 1.0,
+    "near_full_ratio": 0.9,
+    "near_full_min_count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{"ts": "2026-10-05T10:00:00", "account": "u2001", "device": "u2001-d1", "amount": 500.0, "action": "pay", "ip_region": "110000", "order_id": "ORD-9001", "order_status": "open"}
+{"ts": "2026-10-05T10:05:00", "account": "u2001", "device": "u2001-d1", "amount": 500.0, "action": "ticket", "ip_region": "110000", "order_id": "ORD-9001", "ticket_id": "TKT-01"}
+{"ts": "2026-10-05T10:06:00", "account": "u2001", "device": "u2001-d1", "amount": 300.0, "action": "refund", "ip_region": "110000", "order_id": "ORD-9001", "refund_id": "REF-01", "ticket_id": "TKT-01", "order_status": "open"}
+{"ts": "2026-10-05T10:20:00", "account": "u2001", "device": "u2001-d1", "amount": 260.0, "action": "ticket", "ip_region": "110000", "order_id": "ORD-9001", "ticket_id": "TKT-02"}
+{"ts": "2026-10-05T10:21:00", "account": "u2001", "device": "u2001-d1", "amount": 260.0, "action": "refund", "ip_region": "110000", "order_id": "ORD-9001", "refund_id": "REF-02", "ticket_id": "TKT-02", "order_status": "open"}
+{"ts": "2026-10-05T11:00:00", "account": "u2002", "device": "u2002-d1", "amount": 800.0, "action": "pay", "ip_region": "310000", "order_id": "ORD-9002", "order_status": "open"}
+{"ts": "2026-10-05T11:10:00", "account": "u2002", "device": "u2002-d1", "amount": 780.0, "action": "refund", "ip_region": "310000", "order_id": "ORD-9002", "refund_id": "REF-03", "ticket_id": "TKT-03", "order_status": "open"}
+{"ts": "2026-10-05T12:00:00", "account": "u2003", "device": "u2003-d1", "amount": 600.0, "action": "pay", "ip_region": "440000", "order_id": "ORD-9003", "order_status": "open"}
+{"ts": "2026-10-05T12:05:00", "account": "u2003", "device": "u2003-d1", "amount": 600.0, "action": "refund", "ip_region": "440000", "order_id": "ORD-9003", "refund_id": "REF-04", "ticket_id": "TKT-04", "order_status": "closed_refunded"}
+{"ts": "2026-10-05T13:00:00", "account": "u2004", "device": "u2004-d1", "amount": 1000.0, "action": "pay", "ip_region": "110000", "order_id": "ORD-9004", "order_status": "open"}
+{"ts": "2026-10-05T13:10:00", "account": "u2004", "device": "u2004-d1", "amount": 200.0, "action": "refund", "ip_region": "110000", "order_id": "ORD-9004", "refund_id": "REF-05", "ticket_id": "TKT-05", "order_status": "open"}
+{"ts": "2026-10-05T14:00:00", "account": "u2005", "device": "u2005-d1", "amount": 400.0, "action": "pay", "ip_region": "310000", "order_id": "ORD-9005", "order_status": "open"}
+{"ts": "2026-10-05T14:05:00", "account": "u2005", "device": "u2005-d1", "amount": 100.0, "action": "refund", "ip_region": "310000", "order_id": "ORD-9005", "refund_id": "REF-06", "ticket_id": "TKT-06", "order_status": "open"}
+{"ts": "2026-10-05T14:20:00", "account": "u2005", "device": "u2005-d1", "amount": 80.0, "action": "refund", "ip_region": "310000", "order_id": "ORD-9005", "refund_id": "REF-07", "ticket_id": "TKT-07", "order_status": "open"}
+{"ts": "2026-10-05T15:00:00", "account": "u2006", "device": "u2006-d1", "amount": 100.0, "action": "pay", "ip_region": "110000", "order_id": "ORD-9006", "order_status": "open"}
+{"ts": "2026-10-05T15:05:00", "account": "u2006", "device": "u2006-d1", "amount": 95.0, "action": "refund", "ip_region": "110000", "order_id": "ORD-9006", "refund_id": "REF-08", "ticket_id": "TKT-08", "order_status": "closed"}
+{"ts": "2026-10-05T16:00:00", "account": "u2007", "device": "u2007-d1", "amount": 300.0, "action": "pay", "ip_region": "440000", "order_id": "ORD-9007", "order_status": "open"}
+{"ts": "2026-10-05T16:05:00", "account": "u2007", "device": "u2007-d1", "amount": 270.0, "action": "refund", "ip_region": "440000", "order_id": "ORD-9007", "refund_id": "REF-09", "ticket_id": "TKT-09", "order_status": "open"}
+{"ts": "2026-10-05T17:00:00", "account": "u2008", "device": "u2008-d1", "amount": 300.0, "action": "pay", "ip_region": "310000", "order_id": "ORD-9008", "order_status": "open"}
+{"ts": "2026-10-05T17:05:00", "account": "u2008", "device": "u2008-d1", "amount": 150.0, "action": "ticket", "ip_region": "310000", "order_id": "ORD-9008", "ticket_id": "TKT-10"}
+{"ts": "2026-10-05T17:06:00", "account": "u2008", "device": "u2008-d1", "amount": 150.0, "action": "refund", "ip_region": "310000", "order_id": "ORD-9008", "refund_id": "REF-10", "ticket_id": "TKT-10", "order_status": "open"}
+{"ts": "2026-10-05T17:30:00", "account": "u2008", "device": "u2008-d1", "amount": 70.0, "action": "refund", "ip_region": "310000", "order_id": "ORD-9008", "refund_id": "REF-11", "ticket_id": "TKT-11", "order_status": "open"}
